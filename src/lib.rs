@@ -22,6 +22,6 @@ mod tests {
 
     #[test]
     fn fib_3() {
-        assert_eq!(fib(3), 1);
+        assert_eq!(fib(3), 2);
     }
 }
